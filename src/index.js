@@ -1,0 +1,1 @@
+import destrFunc from '../destrFunc';
