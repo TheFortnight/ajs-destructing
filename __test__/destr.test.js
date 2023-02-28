@@ -1,4 +1,4 @@
-import destrFunc from '../destrFunc';
+import destrFunc from '../src/destrFunc';
 
 const character1 = {
   name: 'Лучник',

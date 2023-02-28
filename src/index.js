@@ -1,1 +1,1 @@
-import destrFunc from '../destrFunc';
+import destrFunc from './destrFunc';
